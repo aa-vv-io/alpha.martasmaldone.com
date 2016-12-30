@@ -9,6 +9,9 @@ gallery:
   - url: /assets/images/belgianjournal/03.jpg
     image_path: /assets/images/belgianjournal/03.jpg
     alt: "placeholder image 3"
+
+permalink: /belgianjournal
+
 ---
 
 This is the page
