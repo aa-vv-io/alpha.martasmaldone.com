@@ -11,5 +11,7 @@ gallery:
     alt: "placeholder image 3"
 ---
 
+This is the page
+
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
