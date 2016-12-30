@@ -9,14 +9,6 @@ gallery:
   - url: /assets/images/belgianjournal/03.jpg
     image_path: /assets/images/belgianjournal/03.jpg
     alt: "placeholder image 3"
-  - url: /assets/images/belgianjournal/04.jpg
-    image_path: /assets/images/belgianjournal/04.jpg
-    alt: "placeholder image 4"
-  - url: /assets/images/belgianjournal/05.jpg
-    image_path: /assets/images/belgianjournal/05.jpg
-    alt: "placeholder image 5"
-
-
 
 permalink: /belgianjournal
 
