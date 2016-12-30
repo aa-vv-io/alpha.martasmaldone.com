@@ -1,4 +1,6 @@
 ---
+permalink: /belgianjournal
+
 gallery:
   - url: /assets/images/belgianjournal/01.jpg
     image_path: /assets/images/belgianjournal/01.jpg
@@ -9,8 +11,11 @@ gallery:
   - url: /assets/images/belgianjournal/03.jpg
     image_path: /assets/images/belgianjournal/03.jpg
     alt: "placeholder image 3"
+  - url: /assets/images/belgianjournal/04.jpg
+    image_path: /assets/images/belgianjournal/04.jpg
+    alt: "placeholder image 4"
 
-permalink: /belgianjournal
+
 
 ---
 
