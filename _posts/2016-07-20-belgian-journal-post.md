@@ -1,13 +1,4 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-    permalink: /belgian_journal
 gallery:
   - url: /assets/images/belgianjournal/1.jpg
     image_path: /assets/images/belgianjournal/1.jpg
